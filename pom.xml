@@ -5,7 +5,7 @@
 
 	<groupId>per.pantelis</groupId>
 	<artifactId>spring-playground</artifactId>
-	<version>1.0.0-RC1.7-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT-springPlay</version>
 	<packaging>jar</packaging>
 
 	<name>spring-playground</name>
